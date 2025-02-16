@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshit-iitj
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning cpp
+- 👀 I’m interested in software development , pentesting
+- 🌱 I’m currently cyber security
 - 📫 How to reach me harshit9d27@gmail.com
 
 
